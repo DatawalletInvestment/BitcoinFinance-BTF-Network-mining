@@ -79,3 +79,4 @@ Australia:
 stratum+tcp://au.bitforcepool.com:3333
 
 ```
+donate: BitcoinFinance BTF address: 1EaEtsRk4sHs1sD1FJhj5AybcdKjmsCcCf
