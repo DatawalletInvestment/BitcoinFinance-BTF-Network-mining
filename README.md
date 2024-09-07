@@ -1,7 +1,7 @@
 # BitcoinFinance-BTF-Network-mining
 Bitcoin Finance forked chain mining
 # Solo Mining BitcoinFinance-BTF Tutorial
-This tutorial provides instructions for setting up a Litecoin Node and a mining pool. For this tutorial, I used an bitcoin finance node for guide.
+This tutorial provides instructions for setting up a BitcoinFinance BTF Network Node and a mining pool. For this tutorial, I used an bitcoin finance node for guide.
 
 :donate: BitcoinFinance BTF address: 1EaEtsRk4sHs1sD1FJhj5AybcdKjmsCcCf
 
